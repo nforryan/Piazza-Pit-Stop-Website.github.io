@@ -20,4 +20,4 @@ submission deadline to access the material above.
 d. In this deliverable, it is the website structure that is marked. You will be penalised if
 material is not easily locatable and accessible.
 
-  [Kanban Team Plan](https://drive.google.com/drive/folders/1ycXO9xwJknlI1KIJXcWiNwFYXndVZxGr?usp=drive_link)
+  [Kanban Team Plan Snapshots](https://drive.google.com/drive/folders/1ycXO9xwJknlI1KIJXcWiNwFYXndVZxGr?usp=drive_link)
