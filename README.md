@@ -11,6 +11,7 @@ executable JAR of your game, and to the version control repository of your team�
 code in a clear and accessible way.
 
   [Google Folder with PDFs](https://drive.google.com/drive/folders/1HqTt7sEzjKwzgU0pQ6_n8mGDk44Nttaq?usp=drive_link)
+  
   [URL of Team Repository](https://github.com/tomowen02/piazza-pitstop)
 
 c. The “management” and other teams can use the website at any time after the
