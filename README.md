@@ -7,3 +7,7 @@
   [JAR File](https://drive.google.com/drive/folders/14_eQVBmHtrfYGchcvpjB6yN0iRuHb3iZ?usp=drive_link)
 
   [Kanban Team Plan Snapshots](https://drive.google.com/drive/folders/1ycXO9xwJknlI1KIJXcWiNwFYXndVZxGr?usp=drive_link)
+
+[![JXbTKc7.md.png](https://iili.io/JXbTKc7.md.png)](https://freeimage.host/i/JXbTKc7)
+
+[![JXbTwRn.md.png](https://iili.io/JXbTwRn.md.png)](https://freeimage.host/i/JXbTwRn)
