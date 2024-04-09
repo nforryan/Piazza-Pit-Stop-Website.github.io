@@ -25,3 +25,15 @@ https://drive.google.com/file/d/1oOZV08zCCi4Jn5WuGj12o8rS-50iPJhP/preview
 
 Night time:
 https://drive.google.com/file/d/1Xt82KhGJAkBz-oEvSljIjCLnL80WwWEJ/preview
+
+### Main features that set us apart
+- Focus on architecture
+- Ability to edit gameplay without having to touch the code using the Tiled map editor
+  - We use object properties to control parts of the game. This means that whoever is incharge of creating your map can do all of the following without touching any code:
+    - Create new activity types
+    - Import maps and add triggers to teleport between maps
+    - Change how different activities impact the user's score and energy levels
+- Interactive dialogue system
+  - Easily create interactability using just one line of code
+  - Allow the user to select from different options given in a dialogue box
+  - Each option can easily be set to execute custom code
