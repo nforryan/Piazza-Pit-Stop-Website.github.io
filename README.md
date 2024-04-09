@@ -11,3 +11,17 @@
 [![JXbTKc7.md.png](https://iili.io/JXbTKc7.md.png)](https://freeimage.host/i/JXbTKc7)
 
 [![JXbTwRn.md.png](https://iili.io/JXbTwRn.md.png)](https://freeimage.host/i/JXbTwRn)
+
+### Videos showcasing the game
+
+Quick run through:
+https://drive.google.com/file/d/17uKACHiBQehPR-5y0FBye5TNmpLA8QKM/preview
+
+Dialog system:
+https://drive.google.com/file/d/1Wq0skvnoC2ngHPVkameq3nokLUJ3DvgA/preview
+
+Map switching:
+https://drive.google.com/file/d/1oOZV08zCCi4Jn5WuGj12o8rS-50iPJhP/preview
+
+Night time:
+https://drive.google.com/file/d/1Xt82KhGJAkBz-oEvSljIjCLnL80WwWEJ/preview
