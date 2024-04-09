@@ -10,7 +10,7 @@
 
 [![JXbTKc7.md.png](https://iili.io/JXbTKc7.md.png)](https://freeimage.host/i/JXbTKc7)
 
-[![JXbTwRn.md.png](https://iili.io/JXbTwRn.md.png)](https://freeimage.host/i/JXbTwRn)
+[![Jk4JLiv.md.png](https://iili.io/Jk4JLiv.md.png)](https://freeimage.host/i/Jk4JLiv)
 
 ### Videos showcasing the game
 
